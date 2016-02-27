@@ -248,11 +248,20 @@ function create_config( )
 	    sudo_users = {100096055},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+    about_text = [[TeleBumper v3
+http://s7.picofile.com/file/8234722668/Bumper 
+  
+  
+ Sudo: 
+ @kiarash_gh1 [Manager] 
+  
+  
+ Id Bot 
+ @TeleBumper 
+ 
+ Id Channel 
+ @Bumperch 
 
-channel : @Nod32team
-sodu : @behrooZyaghi
 ]],
     help_text_realm = [[
 Realm Commands:
